@@ -15,5 +15,5 @@ In this internship I was offered three levels with having 3 tasks respectively. 
 
 ## Task1 - Calculator
 
-A Calculator created under the virtual internship program of Oasis Infobyte. <br>
-[Live](https://devvsakib.github.io/oasis-infobyte/Task1)
+A Calculator created under the virtual internship program of Oasis Infobyte.
+https://kavinkumar-ar.github.io/OIBSIP-Task1/

@@ -9,7 +9,7 @@ In this internship I was offered three levels with having 3 tasks respectively. 
 
 - Visual Studio Code
 
-## Technologies:-
+## Languages Used:-
 
 - HTML, CSS & JavaScript
 
